@@ -9,6 +9,12 @@ Un sistema moderno de gestión de productos construido con Node.js, Express y Mo
 ![MongoDB](https://img.shields.io/badge/MongoDB-v4.4+-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+
+Evidencia: 
+
+https://www.dropbox.com/scl/fi/2w06uzzq5zlbwupc0ej2h/video-1.rar?rlkey=mwnjydz7yv9gu1xzgv9on64tq&st=79xe1wi5&dl=0
+https://www.dropbox.com/scl/fi/sfwyviay58bes5pwiwkzt/Video-2.rar?rlkey=3x9sc8fu9xaj3mzxzzs5dc5nt&st=qeshgkaa&dl=0
+
 ## ✨ Características
 
 - 📦 Gestión completa de productos (CRUD)
